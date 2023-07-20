@@ -63,7 +63,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 
 ## Link
-A link to the [code](https://github.com/jgarcia45/employee-tracker):
+A link to the [code](https://github.com/yago-pixel/SQL-Challenge-Employee-Tracker.git):
 ```
 https://github.com/
 ```
