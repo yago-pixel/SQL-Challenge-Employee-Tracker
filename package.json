@@ -1,0 +1,28 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Developing a command-line application to manage a company's employee database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yago-pixel/SQL-Challenge-Employee-Tracker.git"
+  },
+  "keywords": [
+    "node.js",
+    "inquirer",
+    "mysql"
+  ],
+  "author": "Yago Lira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yago-pixel/SQL-Challenge-Employee-Tracker.git/issues"
+  },
+  "homepage": "https://github.com/yago-pixel/SQL-Challenge-Employee-Tracker.git#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
