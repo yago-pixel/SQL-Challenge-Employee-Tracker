@@ -1,3 +1,4 @@
+-- Active: 1695853620113@@127.0.0.1@3306
 -- Inserts names of departments into department table
 INSERT INTO department
   (name)
