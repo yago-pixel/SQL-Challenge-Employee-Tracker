@@ -60,6 +60,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![Command Line](./assets/images/command_line.png)
 
 
+![Screenshot 2023-07-19 205434](https://github.com/yago-pixel/SQL-Challenge-Employee-Tracker/assets/119789668/bd4f0200-ea15-4b1c-a1d4-a8df9313b8bc)
+
 ```
 
 ## Link
